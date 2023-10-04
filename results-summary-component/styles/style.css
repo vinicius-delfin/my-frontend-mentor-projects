@@ -66,10 +66,14 @@ main {
 
 #p-result2 {
     margin-top: 210px;
+    color: var(--white);
+    font-weight: 700;
+    font-size: 1.5em;
 }
 
-#p-resutl3 {
-
+#p-result3 {
+    margin-top: 8px;
+    color: var(--lightlavender);
 }
 
 #percentage {
@@ -175,4 +179,5 @@ main {
     font-weight: 700;
     border-radius: 30px;
     height: 65px;
+    cursor: pointer;
 }
