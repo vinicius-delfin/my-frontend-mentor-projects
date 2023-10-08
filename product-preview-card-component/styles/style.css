@@ -45,7 +45,6 @@ div#photo {
     background-size: cover;
     background-position: bottom bottom;
     height: 250px;
-    /* margin-top: 20px; */
     border-radius: 10px 10px 0px 0px;
 }
 
